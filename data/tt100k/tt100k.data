@@ -1,0 +1,4 @@
+classes=221
+train=data/tt100k/train.txt
+valid=data/tt100k/valid.txt
+names=data/tt100k/tt100k.names
